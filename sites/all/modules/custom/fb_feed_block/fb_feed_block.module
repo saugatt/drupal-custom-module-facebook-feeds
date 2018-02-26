@@ -1,0 +1,6 @@
+<?php
+/*
+ *  @file
+ *  Collect the titles from the Feed Item node via FB RSS feed and import and display them in a block
+ */
+

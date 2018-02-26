@@ -6,3 +6,4 @@ version = 1.x-dev
 configure = admin/config/content/fb_feed_block
 dependencies[] = block
 dependencides[] = feeds
+files[] = fb_feed_block.module
